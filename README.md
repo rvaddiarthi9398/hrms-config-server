@@ -1,0 +1,2 @@
+# hrms-config-server
+configserver
